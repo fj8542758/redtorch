@@ -42,7 +42,7 @@ function setOptionCandlestick(chart,data,notMerge){
                 obj[['left', 'right'][+(pos[0] < size.viewSize[0] / 2)]] = 30;
                 return obj;
             }
-            // extraCssText: 'width: 170px'
+            // extraCssText: 'width: 170px' haha
         },
         axisPointer: {
             link: { xAxisIndex: 'all' },
